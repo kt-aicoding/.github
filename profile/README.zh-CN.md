@@ -22,7 +22,7 @@ KT AI Coding 专注于 Codex、Claude Code、Cursor、Windsurf 等 AI 编程环�
 
 用于配置和操作 AI 编程环境的小型命令行工具。
 
-- [statusline-kit](https://github.com/kt-aicoding/statusline-kit)：面向 Claude Code 和 Codex CLI 的状态栏组件。
+- [cc-codex-config](https://github.com/kt-aicoding/cc-codex-config)：Claude Code 和 Codex CLI 配置套件，包含偏好、状态栏、安装脚本和 Skill。
 
 ### Agent Workflows
 

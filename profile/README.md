@@ -24,7 +24,7 @@ Model Context Protocol servers for code context, review, search, browser automat
 
 Small command-line tools for configuring and operating AI coding environments.
 
-- [statusline-kit](https://github.com/kt-aicoding/statusline-kit): status line kit for Claude Code and Codex CLI.
+- [cc-codex-config](https://github.com/kt-aicoding/cc-codex-config): configuration kit for Claude Code and Codex CLI preferences, status line, installer, and skill.
 
 ### Agent Workflows
 
