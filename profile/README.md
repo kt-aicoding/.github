@@ -12,34 +12,51 @@ KT AI Coding collects practical tooling for Codex, Claude Code, Cursor, Windsurf
 
 ## Projects
 
-### Skills
+### 🗂 Index
 
-Reusable skills and instructions for AI coding agents.
+| Repo | What it is |
+|---|---|
+| [registry](https://github.com/kt-aicoding/registry) | Canonical index of all KT AI Coding skills, MCP servers, CLI tools, and agent workflows |
 
-### MCP Servers
+### 🧠 Skills
 
-Model Context Protocol servers for code context, review, search, browser automation, and developer workflows.
+| Repo | What it is |
+|---|---|
+| [skills](https://github.com/kt-aicoding/skills) | Reusable skills for AI coding agents |
+| [skill-image](https://github.com/kt-aicoding/skill-image) | Choosing image generation, diagram, screenshot, and README visual asset tools |
+| [skill-goal](https://github.com/kt-aicoding/skill-goal) | Durable long-running goal prompts for Codex |
+| [skill-taobao](https://github.com/kt-aicoding/skill-taobao) | Safe, low-frequency Taobao browser automation |
+| [skill-jd](https://github.com/kt-aicoding/skill-jd) | JD shopping browser automation |
 
-### CLI Tools
+### 🔧 CLI Tools
 
-Small command-line tools for configuring and operating AI coding environments.
+| Repo | What it is |
+|---|---|
+| [cli-tools](https://github.com/kt-aicoding/cli-tools) | CLI tools for AI coding environments |
+| [claudecode-codex-switch](https://github.com/kt-aicoding/claudecode-codex-switch) | Model & provider switcher for Claude Code and Codex CLI (`ccuse` / `codexuse`) |
+| [claudecode-codex-config](https://github.com/kt-aicoding/claudecode-codex-config) | Configuration kit for Claude Code and Codex CLI preferences, status line, installer |
 
-- [cc-codex-config](https://github.com/kt-aicoding/cc-codex-config): configuration kit for Claude Code and Codex CLI preferences, status line, installer, and skill.
+### 🔌 MCP Servers
 
-### Agent Workflows
+| Repo | What it is |
+|---|---|
+| [mcp-servers](https://github.com/kt-aicoding/mcp-servers) | Model Context Protocol servers for AI coding workflows |
 
-Templates and examples for multi-agent coding, review, research, debugging, and automation.
+### 🤖 Agent Workflows
+
+| Repo | What it is |
+|---|---|
+| [agent-workflows](https://github.com/kt-aicoding/agent-workflows) | Reusable workflow templates for AI coding agents |
+| [agents](https://github.com/kt-aicoding/agents) | Practical AGENTS.md and CLAUDE.md patterns |
+| [claws](https://github.com/kt-aicoding/claws) | OpenClaw operations notes, repair playbooks, field-tested practices |
+| [hermes](https://github.com/kt-aicoding/hermes) | Hermes local agent practice: OpenClaw migration, Ark provider, launchd, cron |
+
+### 🖼 Assets
+
+| Repo | What it is |
+|---|---|
+| [images](https://github.com/kt-aicoding/images) | Image generation and README visual asset resources |
 
 ## Scope
 
 This organization is for AI coding infrastructure. Broader AI engineering experiments and apps live at [kevinten-ai](https://github.com/kevinten-ai).
-
----
-
-## 中文简介
-
-KT AI Coding 是面向 AI 编程的工具组织，收纳 Skills、MCP Servers、CLI 工具和 Agent 工作流。
-
-这里聚焦 Codex、Claude Code、Cursor、Windsurf 等 AI 编程环境中的可复用基础设施：技能、Model Context Protocol 服务、命令行工具、编码 Agent 工作流与配置模板。
-
-更广泛的 AI 工程实验和应用保留在 [kevinten-ai](https://github.com/kevinten-ai)。
