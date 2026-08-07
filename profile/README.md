@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kt-aicoding/.github/main/assets/logo.svg" alt="KT AI Coding logo" width="120" />
+  <img src="https://raw.githubusercontent.com/kt-aicoding/.github/main/assets/logo-pixel-spark.png" alt="KT AI Coding logo" width="120" />
 </p>
 
 # KT AI Coding
